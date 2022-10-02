@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1664145707 source:c:\users\hp\documents\programme c\sortingarraylib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1664347085 c:\users\hp\documents\programme c\sortingarraylib\library.h
+	<stdio.h>
+	<stdlib.h>
+
+1664347245 source:c:\users\hp\documents\programme c\sortingarraylib\library.c
+
+1664347245 source:c:\users\hp\documents\sortingarraylib\library.c
+
+1664361014 source:c:\users\hp\documents\sortingarraylib\main.c
+	<stdio.h>
+	"library.h"
+
+1664721645 c:\users\hp\documents\sortingarraylib\library.h
+
